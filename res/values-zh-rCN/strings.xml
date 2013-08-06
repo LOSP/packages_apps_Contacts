@@ -581,4 +581,35 @@
     <string name="dialog_voicemail_airplane_mode_message" msgid="530922773669546093">"要呼叫语音信箱，请先关闭飞行模式。"</string>
     <string name="menu_export_database" msgid="2659719297530170820">"导出数据库文件"</string>
     <string name="action_menu_overflow_description" msgid="2303272250613084574">"更多选项"</string>
+
+    <string name="call_stats">通话记录</string>
+    <string name="call_stats_refresh">刷新</string>
+
+    <string name="call_stats_nav_all">全部</string>
+    <string name="call_stats_nav_incoming">打入</string>
+    <string name="call_stats_nav_outgoing">打出</string>
+    <string name="call_stats_nav_missed">未接</string>
+    <string name="call_stats_incoming">打入: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_outgoing">打出: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_missed">未接</string>
+    <string name="call_stats_missed_percent">未接: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_header_total">全部: <xliff:g id="call_count">%s</xliff:g>, <xliff:g id="duration">%s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">全部: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">开始日期</string>
+    <string name="call_stats_filter_to">结束日期</string>
+    <string name="call_stats_filter_picker_title">过滤规则</string>
+
+    <string name="date_quick_selection">快速选项</string>
+    <string name="date_qs_currentmonth">本月</string>
+    <string name="date_qs_currentquarter">本季度</string>
+    <string name="date_qs_currentyear">本年</string>
+    <string name="date_qs_lastweek">上周</string>
+    <string name="date_qs_lastmonth">上月</string>
+    <string name="date_qs_lastquarter">上季度</string>
+    <string name="date_qs_lastyear">去年</string>
+
+    <string name="call_stats_date_filter">调整时间规则</string>
+    <string name="call_stats_reset_filter">重置时间规则</string>
+    <string name="call_stats_sort_by_duration">按持续时间排序</string>
+    <string name="call_stats_sort_by_count">按数量排序</string>
 </resources>
